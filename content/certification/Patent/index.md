@@ -1,6 +1,6 @@
 ---
 title: 'Integrated Development of Automatic Coconut Processing Machine'
-company: 'Patent Published So far'
+company: 'Patent Published'
 url: ''
 range: Jan 2020
 ---
