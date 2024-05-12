@@ -1,2 +1,2 @@
 # theerthanat.github.io
- Portfolio Website
+ Portolio Website

@@ -7,7 +7,7 @@ module.exports = {
       'Portfolio Site',
     siteUrl: 'https://theerthanat.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '',
+    twitterUsername: ' ',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
